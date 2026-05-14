@@ -1,0 +1,77 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*.orig
+*~
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Node (if using any Node tools)
+node_modules/
+package-lock.json
+
+# Python (if converting to Python scripts)
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS X
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Personal notes (optional - uncomment if you want to exclude)
+# personal_notes.md
+# scratch.txt
