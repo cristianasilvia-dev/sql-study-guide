@@ -106,36 +106,9 @@ A comprehensive, organized study guide for the **SQL for Any IT Professional** c
 - User and privilege management
 - View creation and usage
 
-## 📝 Notes
-
-- All SQL examples use standard SQL syntax with notes on variations
-- Database references use the course's BIRDS sample database
-- Code examples are executable and tested
-- Best practices are highlighted throughout
-
-## 🤝 Contributing
-
-Feel free to:
-- Create issues for clarifications or corrections
-- Submit pull requests with improvements
-- Share additional examples or explanations
-- Add translations to other languages
-
-## 📄 License
-
-This study guide is provided under the MIT License. You're free to use, modify, and share this material.
-
 ## 🙏 Acknowledgments
 
-Based on the **"SQL for Any IT Professional"** course by Pluralsight/relevant course provider.
-
-## 📞 Support
-
-For questions about the content:
-- Review the specific lesson in the guide
-- Check the examples provided
-- Refer to official SQL documentation for your database system
-- Test queries in your own database environment
+Based on the **"SQL for Any IT Professional"** course by Pluralsight/relevant course provider.(https://learning.oreilly.com/course/sql-for-any/9780137633401/)
 
 ## 🔗 Related Resources
 
@@ -156,16 +129,6 @@ For questions about the content:
 
 **Document Version:** 1.0  
 **Last Updated:** 2026-05-14  
-**Maintained by:** Your Name  
+**Maintained by:** Bazîru Cristiana-Silvia  
 
 Happy learning! 🎉
-
----
-
-## Quick Navigation
-
-- [SQL_Study_Guide.md](./SQL_Study_Guide.md) - Main study guide
-- Lesson 1: [Unmask the Simplicity of SQL](./SQL_Study_Guide.md#lesson-1-unmask-the-simplicity-of-sql)
-- Lesson 9: [Query Your Database Effectively](./SQL_Study_Guide.md#lesson-9-query-your-database-effectively)
-- Lesson 10: [Join Tables in Queries](./SQL_Study_Guide.md#lesson-10-join-tables-in-queries)
-- [Key Takeaways](./SQL_Study_Guide.md#key-takeaways)
